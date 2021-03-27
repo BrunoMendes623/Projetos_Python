@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run WebAppOndas.py
+web: sh setup.sh && streamlit run web-App-ondas.py

@@ -1,6 +1,4 @@
 # Projetos_Python
-
-## Descrição:
 Repositório meus projetos na linguagem Python
 
 ## PROJETOS

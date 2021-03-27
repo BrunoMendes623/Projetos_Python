@@ -62,7 +62,7 @@ if selecionar_menuprincipal == opção_menuprincipal[0]:
     - **Frequência e Energia de uma onda** -
     Você encontrará um display dinâmico. Basta selecionar um comprimento de onda qualquer clicando e arrastando o mouse ao longo da barra horizontal. O programa irá calcular as propriedades automaticamente e também mostrará um círculo colorido, que representa a cor correspondente ao comprimento de onda selecionado.
     - ** Comprimento de onda de um elétron** - 
-    Basta digitar a velocidade do elétron em m/s sem o prefixo 10^6. O programa mostrará uma lista de propriedades calculadas.
+    Basta digitar a velocidade do elétron em m/s sem a notação 10^6. O programa mostrará uma lista de propriedades calculadas.
     ---
     **Criador:**
     [Bruno Henrique de Medeiros](https://www.linkedin.com/in/brunohenriquemendes/) 

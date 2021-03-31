@@ -1,5 +1,5 @@
 # Projetos_Python
-Repositório meus projetos na linguagem Python
+O objetivo deste repositório é compartilhar meus projetos na linguagem Python.
 
 ## PROJETOS
 ### Web Apps
